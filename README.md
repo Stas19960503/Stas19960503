@@ -1,5 +1,3 @@
-![Banner](https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=2070&auto=format&fit=crop)
-
 # Привет, я Станислав 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CA5E0&width=435&lines=QA+Engineer;Java+%2B+Selenium+Automation;Always+looking+for+bugs!)](https://git.io/typing-svg)
