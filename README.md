@@ -14,22 +14,15 @@
 
 ## 🧐 Обо мне
 
-<table align="center" width="100%">
-<tr>
-<td width="55%">
-
 Я — **инженер по тестированию (QA Engineer)**, который любит находить баги до того, как они доберутся до пользователей. Мой подход — это не просто «кликанье», а системный анализ требований и построение надёжных автотестов.
 
 Моя суперсила — находить проблемы там, где другие продвигают «и так сойдёт».
 
 Я верю, что качество — это не этап в конце разработки, а **образ мышления**.
 
-</td>
-<td width="45%">
-<img src="https://media.giphy.com/media/qgQUggAC34fv6/giphy.gif" width="100%" alt="typing"/>
-</td>
-</tr>
-</table>
+<div align="center">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="420" alt="typing cat"/>
+</div>
 
 ### 🚀 Сейчас в работе
 
@@ -54,6 +47,15 @@
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## 🐍 Змейка моих вкладов
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stas19960503/Stas19960503/output/github-contribution-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/Stas19960503/Stas19960503/output/github-contribution-snake.svg"/>
+</picture>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
