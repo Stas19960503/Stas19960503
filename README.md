@@ -57,37 +57,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## 📊 Статистика и трофеи
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Stas19960503&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stas19960503&theme=radical&hide_border=true&background=0D1117" width="100%"/>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stas19960503&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="60%"/>
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Stas19960503&theme=radical&no-frame=true&column=7&margin-w=10" alt="trophies"/>
-</div>
-
-## 🐍 Змейка моих вкладов
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stas19960503/Stas19960503/output/github-contribution-snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/Stas19960503/Stas19960503/output/github-contribution-snake.svg"/>
-</picture>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ## ☕ Отдел тестирования кофеварок
 
 <div align="center">
@@ -100,9 +69,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ВАШ_ПРОФИЛЬ)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ВАШ_НИК)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ВАША_ПОЧТА@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdejss@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stasbogdei)
+[![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/id103653492)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stasikus96)
 
 </div>
 
