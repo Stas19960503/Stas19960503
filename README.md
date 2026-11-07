@@ -50,15 +50,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-## 🐍 Змейка моих вкладов
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stas19960503/Stas19960503/output/github-contribution-snake-dark.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/Stas19960503/Stas19960503/output/github-contribution-snake.svg"/>
-</picture>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
-
 ## ☕ Отдел тестирования кофеварок
 
 <div align="center">
