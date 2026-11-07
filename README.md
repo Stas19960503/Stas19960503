@@ -10,9 +10,11 @@
 - ⚡ **Фан-факт:** Могу сломать даже кофеварку, если она плохо протестирована.
 
 #### 🛠️ Технологии, которые я приручил:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,selenium,postman,git,github,jenkins,mysql" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📫 Как со мной связаться
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ССЫЛКА_НА_ТВОЙ_LINKEDIN)
