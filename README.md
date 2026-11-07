@@ -18,6 +18,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stas19960503&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
 ## 📫 Как со мной связаться
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ССЫЛКА_НА_ТВОЙ_LINKEDIN)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](ССЫЛКА_НА_ТВОЙ_ТЕЛЕГРАМ)
