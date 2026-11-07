@@ -4,10 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=QA+Engineer+%7C+Automation+Tester;Java+%2B+Selenium+%2B+API+Testing;Ломаю+то,%20что+%C2%ABи+так+сойдёт%C2%BB;Кофеварка+меня+боится+☕)](https://git.io/typing-svg)
 
-</div>
-
 <div align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="700" alt="coding"/>
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="700" alt="male developer"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
