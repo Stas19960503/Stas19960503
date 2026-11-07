@@ -1,3 +1,5 @@
+![Banner](https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=2070&auto=format&fit=crop)
+
 # Привет, я Станислав 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CA5E0&width=435&lines=QA+Engineer;Java+%2B+Selenium+Automation;Always+looking+for+bugs!)](https://git.io/typing-svg)
@@ -17,10 +19,6 @@
 ![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stas19960503&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 📫 Как со мной связаться
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ССЫЛКА_НА_ТВОЙ_LINKEDIN)
