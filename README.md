@@ -1,24 +1,117 @@
-# Привет, я Станислав 👋
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2CA5E0&width=435&lines=QA+Engineer;Java+%2B+Selenium+Automation;Always+looking+for+bugs!)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C4AB6,50:8B5CF6,100:06B6D4&height=200&section=header&text=Привет,%20я%20Станислав%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20•%20Нахожу%20баги%20до%20того,%20как%20их%20найдут%20пользователи&descAlignY=62&descSize=18"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=QA+Engineer+%7C+Automation+Tester;Java+%2B+Selenium+%2B+API+Testing;Ломаю+то,%20что+%C2%ABи+так+сойдёт%C2%BB;Кофеварка+меня+боится+☕)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="700" alt="coding"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 🧐 Обо мне
-Я — инженер по тестированию (QA Engineer), который любит находить баги до того, как они доберутся до пользователей. Мой подход — это не просто «кликанье», а системный анализ требований и построение надежных автотестов. Моя суперсила — находить проблемы там, где другие видят «и так сойдет». 
 
-Я верю, что качество — это не этап в конце разработки, а образ мышления.
+<table align="center" width="100%">
+<tr>
+<td width="55%">
 
-- 🔭 Сейчас я активно развиваюсь в автоматизации тестирования на Java + Selenium и API-тестирование.
-- 🌱 Изучаю паттерны проектирования (Page Object) и интеграцию тестов в CI/CD.
-- ⚡ **Фан-факт:** Могу сломать даже кофеварку, если она плохо протестирована.
+Я — **инженер по тестированию (QA Engineer)**, который любит находить баги до того, как они доберутся до пользователей. Мой подход — это не просто «кликанье», а системный анализ требований и построение надёжных автотестов.
 
-#### 🛠️ Технологии, которые я приручил:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+Моя суперсила — находить проблемы там, где другие продвигают «и так сойдёт».
+
+Я верю, что качество — это не этап в конце разработки, а **образ мышления**.
+
+</td>
+<td width="45%">
+<img src="https://media.giphy.com/media/qgQUggAC34fv6/giphy.gif" width="100%" alt="typing"/>
+</td>
+</tr>
+</table>
+
+### 🚀 Сейчас в работе
+
+- 🛠️ Автоматизация тестирования на **Java + Selenium** и **API-тестирование**
+- 📚 Изучаю шаблоны проектирования (**Page Object**) и интеграционные тесты в **CI/CD**
+- ⚡ Фан-факт: могу сломать даже кофеварку, если она плохо протестирована
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## 🧰 Технологии, которые я приручил
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,maven,gradle,docker,jenkins,git,github,idea&theme=dark" alt="skills"/>
+</div>
+
+<div align="center">
+
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge&logo=testng&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-25A101?style=for-the-badge&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 📫 Как со мной связаться
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ССЫЛКА_НА_ТВОЙ_LINKEDIN)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](ССЫЛКА_НА_ТВОЙ_ТЕЛЕГРАМ)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdajss@gmail.com)
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## 📊 Статистика и трофеи
+
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Stas19960503&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="100%"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Stas19960503&theme=radical&hide_border=true&background=0D1117" width="100%"/>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stas19960503&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="60%"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Stas19960503&theme=radical&no-frame=true&column=7&margin-w=10" alt="trophies"/>
+</div>
+
+## 🐍 Змейка моих вкладов
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Stas19960503/Stas19960503/output/github-contribution-snake-dark.svg">
+  <img alt="snake" src="https://raw.githubusercontent.com/Stas19960503/Stas19960503/output/github-contribution-snake.svg"/>
+</picture>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## ☕ Отдел тестирования кофеварок
+
+<div align="center">
+<img src="https://media.giphy.com/media/6uGhT1O4sxpi8/giphy.gif" width="360" alt="coffee"/>
+
+*Ни одна кофеварка не прошла мимо моего тестирования. Ни одна не ушла непроверенной.*
+</div>
+
+## 📬 Как со мной связаться
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ВАШ_ПРОФИЛЬ)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ВАШ_НИК)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ВАША_ПОЧТА@gmail.com)
+
+</div>
+
+<div align="center">
+
+![Просмотры профиля](https://count.getloli.com/get/@Stas19960503?theme=sketch-1)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C4AB6,50:8B5CF6,100:06B6D4&height=120&section=footer&animation=fadeIn"/>
+</div>
