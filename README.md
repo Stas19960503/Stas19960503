@@ -7,14 +7,14 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="700" alt="male developer debugging"/>
+<img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="350" alt="male developer debugging"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 ## 🧐 Обо мне
 
-Я - **инженер по тестированию (QA Engineer)**, который любит находить баги до того, как они доберутся до пользователей. Мой подход — это не просто «кликанье», а системный анализ требований и построение надёжных автотестов.
+Я - **инженер по тестированию (QA Engineer)**, который любит находить баги до того, как они доберутся до пользователей. Мой подход - это не просто «кликанье», а системный анализ требований и построение надёжных автотестов.
 
 Моя суперсила - находить проблемы там, где другие продвигают «и так сойдёт».
 
@@ -55,6 +55,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdejss@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/станислав-богдей-4383a935b)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/stasbogdei)
 [![VK](https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.ru/id103653492)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stasikus96)
@@ -70,3 +71,4 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C4AB6,50:8B5CF6,100:06B6D4&height=120&section=footer&animation=fadeIn"/>
 </div>
+
